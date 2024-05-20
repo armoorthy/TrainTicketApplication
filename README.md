@@ -11,21 +11,7 @@ Train Ticket Application is a Perl-based tool with used Mojolicious FrameWork de
     git clone https://github.com/armoorthy/TrainTicketApplication.git
     ```
 2. Navigate to the project directory:
-    ```sh
-    cd C:/TrainTicketApplication
-    ```
-
-### Prerequisites
-- Perl (version 5.16.3)
-- CPAN modules: `Mojolicious::Lite`, `Data::Dumper`, `Mojo::Util 'url_unescape'`, `Test::Mojo`,  `FindBin`, `lib "$FindBin::Bin/../lib"`, `Mojolicious::Commands` etc.
-
-### Steps
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/armoorthy/TrainTicketApplication.git
-    ```
-2. Navigate to the project directory:
-    ```sh
+    ```cd
     cd C:/TrainTicketApplication
     ```
 	
